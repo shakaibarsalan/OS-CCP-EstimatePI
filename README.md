@@ -117,8 +117,6 @@ g++ -o thread thread.cpp -std=c++11 -pthread
 ## Authors
 
 - Muhammad Shakaib Arsalan (F2022266626)
-- Muhammad Husnain (F2022266533)
-- Zaid Rasool (F20222666)
 
 ## References
 
