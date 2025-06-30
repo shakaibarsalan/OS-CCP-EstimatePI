@@ -1,0 +1,24 @@
+Calculating PI using threads:
+Thread Range: 0 to 9, Partial PI: 0.76046
+Thread Range: 20 to 29, Partial PI: 0.00416119
+Thread Range: 10 to 19, Partial PI: 0.012446
+Thread Range: 30 to 39, Partial PI: 0.002082
+Thread Range: 40 to 49, Partial PI: 0.00124952
+Thread Range: 50 to 59, Partial PI: 0.000833123
+Thread Range: 60 to 69, Partial PI: 0.000595131
+Thread Range: 70 to 79, Partial PI: 0.000446368
+Thread Range: 80 to 89, Partial PI: 0.000347186
+Thread Range: 90 to 99, Partial PI: 0.000277755
+Thread Range: 100 to 109, Partial PI: 0.000227257
+Thread Range: 110 to 119, Partial PI: 0.000189383
+Thread Range: 120 to 129, Partial PI: 0.000160249
+Thread Range: 130 to 139, Partial PI: 0.000137357
+Thread Range: 140 to 149, Partial PI: 0.000119043
+Thread Range: 150 to 159, Partial PI: 0.000104163
+Thread Range: 160 to 169, Partial PI: 9.19092e-05
+Thread Range: 170 to 179, Partial PI: 8.16973e-05
+Thread Range: 180 to 189, Partial PI: 7.30978e-05
+Thread Range: 190 to 199, Partial PI: 6.57882e-05
+
+Value of PI before *4: 0.784148
+Final PI value: 3.13659
